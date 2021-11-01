@@ -3,6 +3,7 @@
 - 💩 I’m currently learning shitcoding
 - 💩 I'm good at shitcoding
 - 💩 I am shitcode
+- xD
 
 <!---
 Right9lt/Right9lt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
